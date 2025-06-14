@@ -64,12 +64,12 @@ Handy checklists for:
 
 ---
 
-## 🙋🏽‍♀️ About the Author
-
-Created by **Jovannah Walker**, a QA and business systems professional committed to empowering others through clear, testable documentation and real-world software testing knowledge.
-
----
-
 ## 🏷️ Tags
 
 `#quality-assurance` `#uat` `#testing` `#qa-scripts` `#test-cases` `#software-test
+
+--- 
+
+🙋🏽‍♀️ About the Author
+
+Created by Jovannah Walker, a project management, software engineering, and business analysis professional passionate about helping others build better systems and processes.
