@@ -1,6 +1,6 @@
 # ✅ Software QA & UAT Scripts Library
 
-Welcome to the **QA & UAT Scripts Library** — a collection of real-world test case examples, UAT scripts, and checklists used in software quality assurance and user acceptance testing. This library is designed for QA analysts, testers, BAs, product managers, and teams involved in delivering high-quality software solutions.
+Welcome to the **QA & UAT Scripts Library** - a collection of real-world test case examples, UAT scripts, and checklists used in software quality assurance and user acceptance testing. This library is designed for QA analysts, testers, BAs, product managers, and teams involved in delivering high-quality software solutions.
 
 ---
 
