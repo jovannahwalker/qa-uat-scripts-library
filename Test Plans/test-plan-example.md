@@ -97,6 +97,6 @@
 ---
 
 ## 14. Approvals  
-| Name          | Role        | Signature | Date       |  
-|---------------|-------------|-----------|------------|  
-| Jovannah Walker | QA Lead    |           | 2025-07-08 |
+| Name            | Role    | Signature | Date       |  
+|-----------------|---------|-----------|------------|  
+| Jovannah Walker  | QA Lead |           | 2025-07-08 |
