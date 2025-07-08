@@ -1,0 +1,12 @@
+# Bug Life Cycle
+
+Below is a simple diagram showing the typical states of a bug in the workflow.
+
+```mermaid
+flowchart TD
+    New --> Assigned
+    Assigned --> InProgress["In Progress"]
+    InProgress --> QAReview["Ready for QA"]
+    QAReview --> Closed
+    QAReview --> Reopened
+    Reopened --> Assigned
